@@ -10,7 +10,7 @@
 // Projeto Didático - 1º Semestre
 
 // Simulação: Roda-a-Roda
-// Desenvolvido por Lucas Barcellos (1363417), Pedro Chagas (1363981) e Thiago Nascimento ().
+// Desenvolvido por Lucas Barcellos (1363417), Pedro Chagas (1363981).
 
 // ----- CÓDIGO FONTE - NÚCLEO (CORE) -----
 // Lista de funções auxiliares gerais. O código-fonte MAIN se utiliza delas para certas ações.
