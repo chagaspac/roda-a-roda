@@ -1,4 +1,6 @@
-roda-a-roda
+Roda-a-Roda
 ===========
 
-Jogo Roda-a-Roda desenvolvido em C.
+Roda-a-Roda game developed in C.
+
+This game only runs in **Windows OS** because use specifically libs.
